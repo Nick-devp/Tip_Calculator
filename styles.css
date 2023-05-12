@@ -1,0 +1,31 @@
+.bgImg{
+    background-image: url("https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    height: 100vh;
+    text-align: center;
+    background-size: cover;
+}
+.inputElement{
+    padding: 5px;
+    font-weight: bold;
+    width: 50%;
+}
+.container{
+    background-color: #d3f2f1;
+    opacity: 0.8;
+    
+    border-radius: 10px;
+}
+.buttonElememt{
+    width: 105px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+#mainContainer{
+    width: 50%;
+}
+#text{
+    font-weight: bold;
+}
+#textcontant{
+    font-weight: bold;
+}
